@@ -1,6 +1,6 @@
 # 🛡️ Panel de Administración - Laboratorio de Programación 2
 
-Este proyecto es parte del **Segundo Desempeño** de la materia *Laboratorio de Programación 2*. Se trata de un sistema web de gestión administrativa desarrollado en PHP puro, basado en la plantilla **AdminKit**, con autenticación segura, validaciones, roles y manejo de sesiones.
+Este proyecto es parte del **Proyecto final** de la materia *Laboratorio de Programación 2*. Se trata de un sistema web de gestión administrativa desarrollado en PHP puro, basado en la plantilla **AdminKit**, con autenticación segura, validaciones, roles y manejo de sesiones.
 <img width="683" height="565" alt="image" src="https://github.com/user-attachments/assets/754545ca-7780-4fcc-be35-dcfd1a9774a1" />
 
 <img width="1918" height="959" alt="image" src="https://github.com/user-attachments/assets/197f8933-89da-43ab-b752-ec1dfc1eaf22" />
