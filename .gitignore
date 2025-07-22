@@ -1,0 +1,49 @@
+.gitignore# Archivos de configuración sensibles
+*.env
+.env.*
+conexion.php
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Cache de PHP
+*.cache
+
+# Archivos de subida o medios si se generan dinámicamente
+/uploads/
+assets/uploads/
+
+# Base de datos exportada
+*.sql
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Carpetas de XAMPP, si es que se versiona localmente
+xampp/
+
+# Composer (por si se agrega en futuro)
+vendor/
+
+# Node (por si se integra JS moderno en algún módulo)
+node_modules/
+
+# Zip generados
+*.zip
+
+# Backup de Word o Excel (en desarrollo)
+~$*.xls*
+~$*.doc*
+
+# Git ignore para panel de administración en PHP
